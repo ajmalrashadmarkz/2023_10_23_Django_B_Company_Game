@@ -1,0 +1,18 @@
+http://127.0.0.1:9000/users/
+
+{
+    "email": "ajmalrashadmarkz@gmail.com",
+    "first_name": "Ajmal",
+    "last_name": "Rashad K",
+    "password": "admin@123"
+    
+}
+
+http://127.0.0.1:9000/users/login/
+
+{
+    "email": "ajmalrashadmarkz@gmail.com",
+    "password": "admin@123"
+    
+}
+
